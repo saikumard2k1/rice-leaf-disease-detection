@@ -126,3 +126,7 @@ Tested with Python 3.14.7.
 
 ## Tech Stack
 Python, TensorFlow/Keras, MobileNetV2, scikit-learn, pandas, NumPy, Matplotlib, Pillow, Streamlit
+
+Live demo: https://rice-leaf-disease-detection-v72d.onrender.com/
+
+> Hosted on a free instance, so it sleeps after 15 minutes of inactivity. The first load can take a few minutes to wake up.
