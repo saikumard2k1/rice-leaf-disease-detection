@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+PRCP-1001-RiceLeaf/
